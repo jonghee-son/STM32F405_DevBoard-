@@ -3380,7 +3380,7 @@
   (gr_text "GND" (at 130.81 129.54) (layer "F.SilkS") (tstamp e0497db5-e676-4424-bfb2-95bf63ed1438)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "STM32F103 Development Board\nMade by Jonghee Son" (at 133.35 61.54) (layer "F.SilkS") (tstamp e9b310ec-c764-4c6d-a41c-98e8ee421bb7)
+  (gr_text "STM32F405 Development Board\nMade by Jonghee Son" (at 133.35 61.54) (layer "F.SilkS") (tstamp e9b310ec-c764-4c6d-a41c-98e8ee421bb7)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "PC11" (at 155.575 91.44) (layer "F.SilkS") (tstamp ee78e5d7-a058-444e-9118-1843b484c9b3)
