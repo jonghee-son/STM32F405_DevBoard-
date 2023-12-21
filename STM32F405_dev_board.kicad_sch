@@ -4935,7 +4935,7 @@
     (property "Value" "8MHz" (at 259.08 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Crystal:Crystal_HC49-4H_Vertical" (at 255.27 31.75 0)
+    (property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering" (at 255.27 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 255.27 31.75 0)
